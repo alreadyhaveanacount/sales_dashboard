@@ -1,0 +1,16 @@
+body {
+    background: #e2e2e2;
+}
+
+* {
+    font-family: "Roboto";
+}
+
+.container {
+    height: 300px;
+    background: white;
+    border: 1px solid #4b4b4b;
+    padding: 15px;
+    overflow: auto;
+    border-radius: 5%;
+}
